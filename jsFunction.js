@@ -1,4 +1,5 @@
 //Submitted by: Ismet Ferdi SEN
+//Date: 03.03.2019
 //Odev 1) Array Carpimi (15P)//
 function multiplyArrays(array1,array2){
   array3= new Array();
